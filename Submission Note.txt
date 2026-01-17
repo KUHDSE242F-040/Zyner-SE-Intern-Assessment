@@ -1,0 +1,2 @@
+Submission Note:
+I used Playwright to handle YC's dynamic loading, implementing a scroll-to-load approach to gather 500 companies. I extracted basic data from the directory page and then visited each profile to collect batch information and founder details. The main challenge was working around YC's hashed class names and varying founder section layouts.
